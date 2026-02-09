@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "地獄先生",
+  "base_artist": "相対性理論",
+  "createdAt": "2026-02-09T17:36:07.993829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "地獄先生",
+      "artist": "Soutaisei Riron",
+      "has_synced": true,
+      "path": "select/01_地獄先生_Soutaisei_Riron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "地獄先生",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/02_地獄先生_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "地獄先生 - Jigoku Sensei",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/03_地獄先生_-_Jigoku_Sensei_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地獄先生",
+      "artist": "相対性理論",
+      "has_synced": false,
+      "path": "select/pl_01_地獄先生_相対性理論.txt"
+    }
+  ]
+}
